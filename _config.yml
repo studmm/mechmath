@@ -1,8 +1,8 @@
 # Site
-title:              Мехмат МГУ
+title:              Неофициальный сайт Мехмата МГУ
 bio:                'Jekyll version of the Massively theme by HTML5UP'
 description:        "Jekyll version of the Massively theme by HTML5UP"
-locale:             en_US
+locale:             ru_RU
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
@@ -11,10 +11,9 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "UA-123345095-7"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+vk:                 msu_mechmath
+facebook:           mechmath
+telegram:           mechmath_news
 
 # personal
 location:           Los Angeles, CA
