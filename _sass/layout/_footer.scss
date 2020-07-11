@@ -14,7 +14,7 @@
 		cursor: default;
 		position: relative;
 		margin: 0 auto;
-		width: calc(50% - #{_size(padding) * 2});
+		width: calc(55% - #{_size(padding) * 2});
 		max-width: _size(wrapper);
 		z-index: 2;
 
