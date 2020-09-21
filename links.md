@@ -81,6 +81,8 @@ sitemap:
 
 [НМУ](https://vk.com/clubium)
 
+[Share.MSU от Huawei](http://sharemsu.ru/)
+
 [Тинькофф Образование](https://fintech.tinkoff.ru/)
 
 [Техносфера Mail.Ru](https://vk.com/club64913393)
