@@ -43,11 +43,15 @@ sitemap:
 
 [DOXA](https://vk.com/doxajournal)
 
+[Троицкий вариант — Наука](https://vk.com/trvscience)
+
 [Кафедра математической статистики](https://vk.com/club87596889)
 
 [Кафедра математической логики](https://vk.com/club70743963)
 
 [Кафедра высшей геометрии и топологии](https://vk.com/club51088744)
+
+[Кафедра дифференциальной геометрии и приложений](https://vk.com/diffgeometry)
 
 [Кафедра дискретной математики](https://vk.com/club117439756)
 
@@ -69,7 +73,9 @@ sitemap:
 
 [Кафедра теоретической механики и мехатроники](https://vk.com/theormech_mm)
 
-[Спецкурсы](https://vk.com/mm_sc_mu)
+[Официальный список спецкурсов](http://scs.math.msu.ru/)
+
+[Группа со спецкурсами](https://vk.com/mm_sc_mu)
 
 [Личный кабинет и МФК](https://lk.msu.ru)
 
@@ -79,7 +85,11 @@ sitemap:
 
 [Видеолекции](https://teach-in.ru/)
 
+[МЦНМО](https://vk.com/mccme)
+
 [НМУ](https://vk.com/clubium)
+
+[Математические этюды](https://vk.com/etudesru)
 
 [Share.MSU от Huawei](http://sharemsu.ru/)
 
@@ -90,6 +100,10 @@ sitemap:
 [Яндекс ШАД](https://yandexdataschool.ru/)
 
 [ЦМФ](https://vk.com/cmf_russia)
+
+[School of Finance](https://vk.com/sfinancegroup)
+
+[Математика и деньги на биржах](https://pfladvisors.com/mathmoney/)
 
 [Иностранные языки на мехмате](https://vk.com/mm_languages)
 
