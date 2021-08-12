@@ -13,6 +13,8 @@ sitemap:
 
 [Канал с новостями Мехмата в Telegram](https://t.me/mechmath_news)
 
+[Кем работают после мехмата](https://vk.com/20dollars_is_20dollars)
+
 [Группа Мехмата в Facebook](https://facebook.com/mechmath)
 
 [Официальный сайт мехмата](https://math.msu.ru)
