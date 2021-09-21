@@ -101,6 +101,8 @@ sitemap:
 
 [Яндекс ШАД](https://yandexdataschool.ru/)
 
+[Институт Вега](https://vega-institute.org/ru/)
+
 [ЦМФ](https://vk.com/cmf_russia)
 
 [School of Finance](https://vk.com/sfinancegroup)
@@ -116,10 +118,6 @@ sitemap:
 [Список книг на rmbk.me](http://rmbk.me/math_books)
 
 [mexmat.net](http://mexmat.net/materials/)
-
-[Сосиска в тесте](https://t.me/mathcatalog)
-
-[MMD](https://vk.com/mmdata)
 
 [Ботаем?](https://vk.com/botay_msu)
 
@@ -149,10 +147,6 @@ sitemap:
 
 [Мехмат говорит](https://vk.com/mmspeech)
 
-[Ежидзе группа](https://vk.com/ezhidze_group)
-
-[Ежидзе канал](https://t.me/ezhidze_channel)
-
 [Подслушано в МГУ](https://vk.com/public54295855)
 
 [Общежитие ГЗ МГУ](https://vk.com/ds_msu)
@@ -166,8 +160,6 @@ sitemap:
 [Форум МГУ](https://forumlocal.ru/ubbthreads.php)
 
 [Фонд Базис](https://vk.com/public190279994)
-
-[MSU (Lomonosov) mentors club](https://vk.com/msumentors)
 
 [Универститетская солидарность](https://vk.com/unisolidaritymsu)
 
