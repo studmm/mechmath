@@ -159,7 +159,7 @@ sitemap:
 
 [Форум МГУ](https://forumlocal.ru/ubbthreads.php)
 
-[Фонд "Базис"](https://vk.com/public190279994)
+[Фонд Базис](https://vk.com/public190279994)
 
 [Универститетская солидарность](https://vk.com/unisolidaritymsu)
 
