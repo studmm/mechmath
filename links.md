@@ -27,7 +27,7 @@ sitemap:
 
 [Чат Мехмата в Telegram](https://t.me/mechmath)
 
-[Научный математический чат в Telegram](https://t.me/rumath)
+[Математический чат в Telegram](https://t.me/rumath)
 
 [Чат абитуриентов в Telegram](https://t.me/mm_abiturient)
 
